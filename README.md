@@ -13,7 +13,7 @@
 
 ### Stats
 <a href="https://github.com/lkhorasandzhian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkhorasandzhian&theme=buefy&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkhorasandzhian&theme=buefy&layout=compact" />
 </a>
 
 <!-- Resourses: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/AVS1508.md?plain=1 -->
