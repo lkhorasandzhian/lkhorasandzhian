@@ -11,6 +11,7 @@
 ![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![F#](https://img.shields.io/badge/f%23-6933FF.svg?style=for-the-badge&logo=fsharp&logoColor=white)
+![Prolog](https://img.shields.io/badge/prolog-74283c.svg?style=for-the-badge&logo=tripadvisor&logoColor=white)
 
 ### Stats
 <a href="https://github.com/lkhorasandzhian">
