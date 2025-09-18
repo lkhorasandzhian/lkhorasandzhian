@@ -14,11 +14,11 @@
 ![Prolog](https://img.shields.io/badge/prolog-74283c.svg?style=for-the-badge&logo=tripadvisor&logoColor=white)
 
 ### Stats
-<a href="https://github.com/lkhorasandzhian">
-  <img height="150" src="https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=6d8fd6&text_color=6d8fd6&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact" />
-  <!-- The GitHub Token is active until 17 december 2025 -->
-</a>
+[![GitHub stats-Light](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=000000&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=000000&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)
 
+[![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=6d8fd6&text_color=6d8fd6&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=6d8fd6&text_color=6d8fd6&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)
+
+<!-- The GitHub Token is active until 17 december 2025 -->
 <!-- Instruction: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
 <!-- Git Stats Repository: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Resourses: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/AVS1508.md?plain=1 -->
