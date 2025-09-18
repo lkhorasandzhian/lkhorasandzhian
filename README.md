@@ -15,7 +15,7 @@
 
 ### Stats
 <a href="https://github.com/lkhorasandzhian">
-  <img height="150" src="https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&theme=transparent&layout=compact" />
+  <img height="150" src="https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=6d8fd6&text_color=6d8fd6&theme=transparent&layout=compact" />
   <!-- The GitHub Token is active until 17 december 2025 -->
 </a>
 
