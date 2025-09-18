@@ -14,7 +14,7 @@
 ![Prolog](https://img.shields.io/badge/prolog-74283c.svg?style=for-the-badge&logo=tripadvisor&logoColor=white)
 
 ### Stats
-[![GitHub stats-Light](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=000000&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=000000&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=0969da&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=0969da&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)
 
 [![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=4493f8&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=4493f8&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)
 
