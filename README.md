@@ -15,7 +15,9 @@
 
 ### Stats
 <a href="https://github.com/lkhorasandzhian">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkhorasandzhian&theme=buefy&layout=compact" />
+  <img height="150" src="https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&theme=buefy&layout=compact" />
+  <!-- The GitHub Token is active until 17 december 2025 -->
 </a>
-
+<!-- Instruction: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
+<!-- Git Stats Repository: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Resourses: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/AVS1508.md?plain=1 -->
