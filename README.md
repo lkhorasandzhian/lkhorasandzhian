@@ -16,7 +16,7 @@
 ### Stats
 [![GitHub stats-Light](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=000000&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=000000&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-light-mode-only)
 
-[![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=6d8fd6&text_color=6d8fd6&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=6d8fd6&text_color=6d8fd6&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=4493f8&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=4493f8&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)
 
 <!-- The GitHub Token is active until 17 december 2025 -->
 <!-- Instruction: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
