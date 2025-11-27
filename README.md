@@ -19,7 +19,8 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 
 ### Familiar with  
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![F#](https://img.shields.io/badge/f%23-6933FF.svg?style=for-the-badge&logo=fsharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-59666C?style=for-the-badge&logo=c&logoColor=white)
