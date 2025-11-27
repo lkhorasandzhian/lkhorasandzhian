@@ -31,5 +31,5 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 [![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=FFFFFF&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=FFFFFF&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact#gh-dark-mode-only)
 
 ## 📫 Contacts  
-📧 Email: lakhorasandzhyan@edu.hse.ru  
-💬 Telegram: https://t.me/yungflaeva
+📧 Email: [lakhorasandzhyan@edu.hse.ru](mailto:lakhorasandzhyan@edu.hse.ru)  
+💬 Telegram: [@yungflaeva](https://t.me/yungflaeva)
