@@ -17,12 +17,34 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 ![C++](https://img.shields.io/badge/c++-%23ff0077.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Also worked with  
-![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)
+### Familiar with  
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![F#](https://img.shields.io/badge/f%23-6933FF.svg?style=for-the-badge&logo=fsharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-59666C?style=for-the-badge&logo=c&logoColor=white)
 ![Prolog](https://img.shields.io/badge/prolog-74283c.svg?style=for-the-badge&logo=tripadvisor&logoColor=white)
+
+### Databases  
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/clickhouse-ffdd00.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+
+### Dev Tools  
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=shell&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+<!-- ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) -->
+<!-- ![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
+
 
 ## 📊 GitHub Stats
 
