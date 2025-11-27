@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Levon — Software Engineer
-Focused on **Backend Engineering**, **Databases**, **Distributed Systems**, and **High-performance applications**.  
+I'm Focused on **Backend Engineering**, **Databases**, **Distributed Systems**, and **High-performance applications**.  
 Open to full-time roles as a **C# / Java Backend Developer** or **Software Engineer**.
 
 ## 🎓 Education
@@ -33,8 +33,6 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 
 
 ### Dev Tools  
-
-#### General Tools
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -42,13 +40,13 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### Testing
+### Testing
 ![xUnit](https://img.shields.io/badge/xUnit-5A2A82.svg?style=for-the-badge&logo=nuget&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-9FE870.svg?style=for-the-badge&logo=mockito&logoColor=black)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-#### Environment
+### Environment
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
