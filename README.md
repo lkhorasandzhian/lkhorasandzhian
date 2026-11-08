@@ -29,9 +29,9 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 **Python & SQL:** pandas, PySpark, SQLAlchemy; ETL pipelines, data quality checks, and analytical data marts.  
 **Tools & Cloud:** Apache Airflow, Apache Spark, Apache Kafka, Yandex Cloud, Yandex DataLens.
 
-### Backend Frameworks & Technologies
+### Backend
 **Java:** Spring Boot, Spring MVC, Spring Data, Spring Security, JDBC, JPA / Hibernate.  
-**C# / .NET:** ASP.NET Core, Web API, Entity Framework Core, LINQ, Dependency Injection.
+**C#:** ASP.NET Core, Web API, Entity Framework Core, LINQ, Dependency Injection.
 
 ### Core Languages  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -39,22 +39,12 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%23ff0077.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Familiar with  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![F#](https://img.shields.io/badge/f%23-6933FF.svg?style=for-the-badge&logo=fsharp&logoColor=white)
-![C](https://img.shields.io/badge/c-59666C?style=for-the-badge&logo=c&logoColor=white)
-![Prolog](https://img.shields.io/badge/prolog-74283c.svg?style=for-the-badge&logo=tripadvisor&logoColor=white)
-
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/clickhouse-ffdd00.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Dev Tools  
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -78,6 +68,16 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 <!-- ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) -->
 <!-- ![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 
+<!-- COMMENTED BLOCK
+### Familiar with  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-35b393.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![F#](https://img.shields.io/badge/f%23-6933FF.svg?style=for-the-badge&logo=fsharp&logoColor=white)
+![C](https://img.shields.io/badge/c-59666C?style=for-the-badge&logo=c&logoColor=white)
+![Prolog](https://img.shields.io/badge/prolog-74283c.svg?style=for-the-badge&logo=tripadvisor&logoColor=white)
+-->
 
 ## 📊 GitHub Stats
 
