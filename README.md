@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Levon — Software Engineer
-I'm focused on **Backend Engineering**, **Data Engineering**, **Databases**, and **Distributed Systems**.  
-Open to full-time roles as a **C# / .NET Backend Developer**, **Java Backend Developer**, or **Data Engineer**.
+I'm focused on **Data Engineering** and **Backend Development**, with an interest in **Databases** and **Distributed Systems**.  
+Open to full-time roles as a **Data Engineer**, **.NET Backend Developer**, or **Java Backend Developer**.
 
 ## 🎓 Education
 ### Bachelor’s Degree in Software Engineering (2021–2025)
@@ -10,29 +10,34 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 Faculty of Computer Science, Higher School of Economics (HSE)
 
 ## 🛠️ Practical Experience
-**Yandex Backend Development Summer School (July–August 2026)**  
-Contributed to a team project auditing advertising campaigns: aggregated data from Yandex Direct and Yandex Metrica, integrated external APIs, and implemented business-rule checks, error handling, logging, and tests.
+### Internship at Yandex Backend Development Summer School (July 1 – August 31, 2026)
+**Advertising Campaign Auditor**
+- Collaborated in a development team on a real-world business project for an internal stakeholder from Yandex Plus.
+- Developed a backend service for auditing advertising campaigns by aggregating data from Yandex Direct and Yandex Metrica.
+- Contributed to API design, modular backend architecture, and integrations with external data sources.
+- Worked on automated business rule validation and recommendation generation.
+- Integrated a dedicated AI-powered service to improve the structure and readability of final audit reports.
 
 ## 📄 CV
+- [Data Engineering (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Data%20Engineering/CV_Rus_DE.pdf)
 - [Java Backend (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Backend/CV_Rus_Java.pdf)
 - [.NET Backend (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Backend/CV_Rus_DotNet.pdf)
-- [Data Engineering (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Data%20Engineering/CV_Rus_DE.pdf)
 
 ## 💻 Tech Stack
 
-### Core Languages  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23ff0077.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Data Engineering
+**Python & SQL:** pandas, PySpark, SQLAlchemy; ETL pipelines, data quality checks, and analytical data marts.  
+**Tools & Cloud:** Apache Airflow, Apache Spark, Apache Kafka, Yandex Cloud, Yandex DataLens.
 
 ### Backend Frameworks & Technologies
 **Java:** Spring Boot, Spring MVC, Spring Data, Spring Security, JDBC, JPA / Hibernate.  
 **C# / .NET:** ASP.NET Core, Web API, Entity Framework Core, LINQ, Dependency Injection.
 
-### Data Engineering
-**Python & SQL:** pandas, PySpark, SQLAlchemy; ETL pipelines, data quality checks, and analytical data marts.  
-**Tools & Cloud:** Apache Airflow, Apache Spark, Apache Kafka, Yandex Cloud, Yandex DataLens.
+### Core Languages  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%23ff0077.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Familiar with  
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
