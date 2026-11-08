@@ -81,9 +81,9 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 
 ## 📊 GitHub Stats
 
-[![GitHub stats-Light](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=0969da&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&v=2#gh-light-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=0969da&text_color=000000&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&v=2#gh-light-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=0969da&text_color=000000&langs_count=3&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&v=2#gh-light-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=0969da&text_color=000000&langs_count=3&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&v=2#gh-light-mode-only)
 
-[![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=FFFFFF&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&v=2#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=FFFFFF&langs_count=6&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&v=2#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=FFFFFF&langs_count=3&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&v=2#gh-dark-mode-only)](https://github-readme-stats-ten-iota-10.vercel.app/api/top-langs/?username=lkhorasandzhian&title_color=4493f8&text_color=FFFFFF&langs_count=3&hide=c,cmake&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&v=2#gh-dark-mode-only)
 
 ## 📫 Contacts  
 📧 Email: [lakhorasandzhyan@edu.hse.ru](mailto:lakhorasandzhyan@edu.hse.ru)  
