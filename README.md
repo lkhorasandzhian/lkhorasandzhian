@@ -6,7 +6,7 @@ Open to full-time roles as a **Data Engineer**, **.NET Backend Developer**, or *
 ### Bachelor’s Degree in Software Engineering (2021–2025)
 Faculty of Computer Science, Higher School of Economics (HSE)
 
-### Master’s Degree in Data Engineering (2025–2027, in progress)
+### Master’s Degree in Data Engineering (2025–2027)
 Faculty of Computer Science, Higher School of Economics (HSE)
 
 ## 🛠️ Practical Experience
