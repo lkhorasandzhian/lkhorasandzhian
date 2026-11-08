@@ -1,13 +1,22 @@
 ## 👋 Hi, I'm Levon — Software Engineer
-I'm Focused on **Backend Engineering**, **Databases**, **Distributed Systems**, and **High-performance applications**.  
-Open to full-time roles as a **C# / Java Backend Developer** or **Software Engineer**.
+I'm focused on **Backend Engineering**, **Data Engineering**, **Databases**, and **Distributed Systems**.  
+Open to full-time roles as a **C# / .NET Backend Developer**, **Java Backend Developer**, or **Data Engineer**.
 
 ## 🎓 Education
 ### Bachelor’s Degree in Software Engineering (2021–2025)
 Faculty of Computer Science, Higher School of Economics (HSE)
 
-### Master’s Degree in Data Engineering (2025–2027)
+### Master’s Degree in Data Engineering (2025–2027, in progress)
 Faculty of Computer Science, Higher School of Economics (HSE)
+
+## 🛠️ Practical Experience
+**Yandex Backend Development Summer School (July–August 2026)**  
+Contributed to a team project auditing advertising campaigns: aggregated data from Yandex Direct and Yandex Metrica, integrated external APIs, and implemented business-rule checks, error handling, logging, and tests.
+
+## 📄 CV
+- [Java Backend (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Backend/CV_Rus_Java.pdf)
+- [.NET Backend (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Backend/CV_Rus_DotNet.pdf)
+- [Data Engineering (PDF, Russian)](https://github.com/lkhorasandzhian/CV/blob/main/.pdf/Data%20Engineering/CV_Rus_DE.pdf)
 
 ## 💻 Tech Stack
 
@@ -16,6 +25,14 @@ Faculty of Computer Science, Higher School of Economics (HSE)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%23ff0077.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Backend Frameworks & Technologies
+**Java:** Spring Boot, Spring MVC, Spring Data, Spring Security, JDBC, JPA / Hibernate.  
+**C# / .NET:** ASP.NET Core, Web API, Entity Framework Core, LINQ, Dependency Injection.
+
+### Data Engineering
+**Python & SQL:** pandas, PySpark, SQLAlchemy; ETL pipelines, data quality checks, and analytical data marts.  
+**Tools & Cloud:** Apache Airflow, Apache Spark, Apache Kafka, Yandex Cloud, Yandex DataLens.
 
 ### Familiar with  
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
